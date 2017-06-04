@@ -23,5 +23,13 @@ https://marketplace.visualstudio.com/items?itemName=adamwalzer.scss-lint
 
 ## Convention
 
-### CSS
-BEM styling `http://getbem.com/introduction/`
+### File Structure
+`http://engineering.kapost.com/2016/01/organizing-large-react-applications/`
+
+
+### SCSS
+#### Style Guide
+`http://getbem.com/introduction/`
+
+#### File Structure
+`http://timhartmann.net/frontend-development/scss-styleguide-with-bem-oocss-smacss/`
