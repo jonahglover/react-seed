@@ -1,0 +1,19 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.title-text {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 31px;
+  color: $black-text;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.subtext {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 31px;
+  color: $light-grey-text;
+}
