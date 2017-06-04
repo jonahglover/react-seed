@@ -1,7 +1,6 @@
 # About
 This is a react seed project that enforces the Airbnb CSS and JSX style guide.
 
-
 # Setup
 
 ## CSS Linter
@@ -21,3 +20,8 @@ https://marketplace.visualstudio.com/items?itemName=adamwalzer.scss-lint
 
 ## Test
 `yarn test`
+
+## Convention
+
+### CSS
+BEM styling `http://getbem.com/introduction/`
