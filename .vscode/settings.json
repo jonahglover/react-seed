@@ -2,7 +2,6 @@
   "scssLint.errorBackgroundColor": "rgba(200, 0, 0, .8)",
   "scssLint.warningBackgroundColor": "rgba(200, 120, 0, .8)",
   "scssLint.languages": [
-    "scss",
-    "css"
+    "scss"
   ]
 }
