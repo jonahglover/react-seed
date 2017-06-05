@@ -1,6 +1,15 @@
 # About
 This is a react seed project that enforces the Airbnb CSS and JSX style guide.
 
+# Blog Post
+Here's a post on my blog that explains all of the decisions.
+
+# TODO
+1. Githooks so that I can't push without the linter running
+2. Redux integration
+3. More demo features 
+4. Tests for said demo features
+
 # Setup
 
 ## CSS Linter
@@ -33,3 +42,4 @@ https://marketplace.visualstudio.com/items?itemName=adamwalzer.scss-lint
 
 #### File Structure
 `http://timhartmann.net/frontend-development/scss-styleguide-with-bem-oocss-smacss/`
+
